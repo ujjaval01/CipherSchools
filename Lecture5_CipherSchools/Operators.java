@@ -1,4 +1,5 @@
-  public class Operators {
+package Lecture5_CipherSchools;
+public class Operators {
     public static void main(String[] args) {
         System.out.println("Example of Operators");
 
@@ -10,6 +11,8 @@
         System.out.println("Original: "+ a);
         System.out.println("Increment: " + a++);
         System.out.println("Decrement: "+ a--);
+
+       
     }
     
 }
